@@ -1,0 +1,16 @@
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\obj\Debug\net5.0\patika-degisken-pratigi.csprojAssemblyReference.cache
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\obj\Debug\net5.0\patika-degisken-pratigi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\obj\Debug\net5.0\patika-degisken-pratigi.AssemblyInfoInputs.cache
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\obj\Debug\net5.0\patika-degisken-pratigi.AssemblyInfo.cs
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\obj\Debug\net5.0\patika-degisken-pratigi.csproj.CoreCompileInputs.cache
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\bin\Debug\net5.0\patika-degisken-pratigi.exe
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\bin\Debug\net5.0\patika-degisken-pratigi.deps.json
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\bin\Debug\net5.0\patika-degisken-pratigi.runtimeconfig.json
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\bin\Debug\net5.0\patika-degisken-pratigi.runtimeconfig.dev.json
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\bin\Debug\net5.0\patika-degisken-pratigi.dll
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\bin\Debug\net5.0\ref\patika-degisken-pratigi.dll
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\bin\Debug\net5.0\patika-degisken-pratigi.pdb
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\obj\Debug\net5.0\patika-degisken-pratigi.dll
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\obj\Debug\net5.0\ref\patika-degisken-pratigi.dll
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\obj\Debug\net5.0\patika-degisken-pratigi.pdb
+C:\Users\Cemil\Desktop\patika-degisken-pratigi\obj\Debug\net5.0\patika-degisken-pratigi.genruntimeconfig.cache
